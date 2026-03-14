@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi 👋, I'm Hemant Machiwar<br><br>🎓 B.Tech Student at NIT Hamirpur  <br>💻 Full Stack Developer | MERN & Next.js  <br>📊 Exploring Machine Learning and AI  <br>🚀 Passionate about building scalable web applications
+#About Me:
+#💻 Full Stack Developer | MERN & Next.js  <br>📊 Exploring Machine Learning and AI  <br>🚀 Passionate about building scalable web applications
 
 
 ## 🌐 Socials:
