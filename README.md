@@ -1,7 +1,3 @@
-#About Me:
-#💻 Full Stack Developer | MERN & Next.js  <br>📊 Exploring Machine Learning and AI  <br>🚀 Passionate about building scalable web applications
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hemant-machiwar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemantmachiwar76@gmail.com) 
 
